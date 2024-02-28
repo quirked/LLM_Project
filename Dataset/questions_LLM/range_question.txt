@@ -1,0 +1,25 @@
+questions: 
+1-climate.pdf -> Q1 - Q151
+2-climate.pdf -> Q152 - Q203
+3-climate.pdf -> Q204 - Q270
+
+1-food.pdf-> Q1 - Q108
+2-food.pdf-> Q109 - Q169
+3-climate.pdf -> Q170 - Q234
+
+ML1-> Q1-Q118
+Ml2-> Q119-Q177
+ML3-> Q178- Q245
+
+Crypto_1 -> Q1 - Q119
+Crypto_2 -> Q120 - Q179
+Crypto_3 -> Q180 - till end 
+
+Genetic_1 -> Q1 - Q85
+Genetic_2 -> Q86 - Q217
+Genetic_3 -> Q218 - till end 
+
+
+
+
+
